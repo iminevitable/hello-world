@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-Assembled by iminevitable
+assembled by iminevitable
